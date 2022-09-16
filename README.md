@@ -1,8 +1,16 @@
 # Module 19 Challenge - Text Editor
-Deployed at 
+Deployed at https://young-shore-75071.herokuapp.com/
 
 ## Purpose
-MOdule Challange for Washington University Web Dev Bootcamp. This challenge 
+Module Challange for Washington University Web Dev Bootcamp. 
 
-## Built With 
-* 
+## User Story
+AS A developer
+I WANT to create notes or code snippets with or without an internet connection
+SO THAT I can reliably retrieve them for later use
+
+## Installation and Usgae
+To install dependencies, from the Develop directory run "npm i". From the same directory run "npm start" to start up app on local server. 
+
+
+
