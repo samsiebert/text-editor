@@ -1,8 +1,8 @@
 # Module 19 Challenge - Text Editor
-Deployed at https://young-shore-75071.herokuapp.com/
+Deployed at https://hidden-castle-73720.herokuapp.com 
 
 ## Purpose
-Module Challange for Washington University Web Dev Bootcamp. 
+Module Challange for Washington University Web Dev Bootcamp. This is a simple text editor application designed to run on and offline. 
 
 ## User Story
 AS A developer
